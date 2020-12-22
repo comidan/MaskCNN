@@ -1,4 +1,7 @@
 # MaskCNN
+
+![tensorflow](https://aleen42.github.io/badges/src/tensorflow.svg)
+
 This model is meant to solve the classification problem of determining whether a group of people is wearing a mask, partially or not at all given an image as input.
  
 No one is wearing a mask             |  All the people are wearing a mask  | Some people are wearing a mask
