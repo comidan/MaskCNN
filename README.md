@@ -41,5 +41,8 @@ by weights initialization.
 ## Results
 With the first architecture we were able to reach on Kaggle an accuracy on the test dataset of 84%, while with
 the second architecture we've reached an accuracy on the test set of 92.66% using validation and losing between
-validation and test accuracy only 0.31%, so it's a quite good model.
-Then re-training on the whole dataset using the same model we've reached an accuaracy on the test set of 94.44%.
+validation and test accuracy only 0.31%, so it's a quite good model.<br>
+![validation](/results/validation.png)
+<br>
+Then re-training on the whole dataset using the same model we've reached an accuaracy on the test set of 94.44%.<br>
+![full](/results/full.png)
