@@ -1,5 +1,10 @@
 # MaskCNN
 This model is meant to solve the classification problem of determining whether a group of people is wearing a mask, partially or not at all given an image as input.
+ 
+No one is wearing a mask             |  All the people are wearing a mask  | Some people are wearing a mask
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="/MaskDataset/test/10296.jpg" width="213" height="137">  |  <img src="/MaskDataset/test/10148.jpg" width="213" height="137"> | <img src="/MaskDataset/test/10100.jpg" width="213" height="137">
+
 All details are present in the report file in this repo, here there are just the main details of the Neural Network used.
 
 ## Dataset 
